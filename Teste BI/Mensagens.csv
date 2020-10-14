@@ -1,0 +1,55 @@
+id;texto;data;status;id_user
+1;Olá tudo bem?;01/07/2020;aprovada;1
+2;Como posso consultar meu boleto?;01/07/2020;corrigida;3
+3;Como pagar minha fatura?;01/07/2020;corrigida;3
+4;Como mudar meu nome?;05/07/2020;corrigida;3
+5;Não estou conseguindo conectar na minha conta;05/07/2020;nova;2
+6;Preciso de um emprestimo;05/07/2020;aprovada;4
+7;Preciso de ajuda;06/07/2020;aprovada;7
+8;Gostaria de mais informações;06/07/2020;nova;8
+9;Quanto custa isso?;06/07/2020;nova;9
+10;OI gostaria de falar com o Michel;09/07/2020;nova;10
+11;Preciso de ajuda, para transferir dinheiro;09/07/2020;corrigida;11
+12;Como transferir dinheiro;09/07/2020;corrigida;12
+13;Onde fica a estação mais proxima.;10/07/2020;aprovada;13
+14;Gostaria de comprar um cachorro;10/07/2020;aprovada;14
+15;Quanto custa uma geladeira;11/07/2020;corrigida;15
+16;Gostaria de fazer um seguro para o meu celular.;11/07/2020;nova;16
+17;Gostaria de mudar o plano do celular;12/07/2020;aprovada;11
+18;Como mudar de emprego?;13/07/2020;aprovada;18
+19;Receitas com banana;14/07/2020;corrigida;19
+20;nde depositar as minhas reciclagens;14/07/2020;corrigida;20
+21;Preciso de um emprestimo;15/07/2020;nova;21
+22;Iphone em promoção;15/07/2020;nova;12
+23;Notebook dell assistencia;18/07/2020;aprovada;23
+24;Onde comprar ração de gato?;18/07/2020;aprovada;24
+25;Petshop mais proximo.;18/07/2020;aprovada;31
+26;Suco de manga com leite faz mal?;20/07/2020;corrigida;26
+27;Olá tudo bem, gostaria de ajuda.;20/07/2020;aprovada;32
+28;Minha gata está passando mal, o que fazer?;20/07/2020;nova;28
+29;i;20/07/2020;corrigida;31
+30;EU preciso de um emprestimo urgente;20/07/2020;nova;30
+31;Hello, how are you?;21/07/2020;nova;31
+32;Olá;21/07/2020;nova;32
+33;Clinica de odontologia.;21/07/2020;aprovada;22
+34;Drenagem de gordura, onde fazer?;21/07/2020;aprovada;34
+35;Cirurgia no coração como funciona?;22/07/2020;nova;35
+36;Quanto custa para fazer um transplante de cabelo;23/07/2020;aprovada;36
+37;Quanto custa um rim?;24/07/2020;corrigida;37
+38;Quais são as melhores clinicas de dermatologia do brasil?;25/07/2020;aprovada;29
+39;Nutricionista em conta, onde achar?;26/07/2020;nova;39
+40;Seu cognitivo não funciona;27/07/2020;nova;40
+41;Poderia falar com um atendente?;28/07/2020;nova;54
+42;Gostaria de trocar de seguro.;29/07/2020;nova;42
+43;Gostaria de fazer minha inscrição para ciencia da computação como posso prosseguir.;30/07/2020;nova;43
+44;Universidades com descontos, onde tem?;30/07/2020;nova;44
+45;Iphone 12, onde comprar?;07/07/2020;aprovada;45
+46;Comprar via internet é confiavel.;07/07/2020;aprovada;46
+47;Comprar moveis planejados?;06/07/2020;corrigida;54
+48;Como posso financeiras uma casa?;04/07/2020;corrigida;48
+49;Como posso financiar uma carro?;04/07/2020;aprovada;49
+50;Descontos com 50% de desconto, onde achar?;02/07/2020;nova;50
+51;Monitor em promoção.;02/07/2020;nova;51
+52;Onde comprar um HD novo;02/07/2020;aprovada;52
+53;Como aumentar a minha memoria ram;13/07/2020;nova;53
+54;Quero aumentar meu salario.;13/07/2020;nova;54
